@@ -41,23 +41,26 @@
 
 
 ### 최종 화면
-1. 로그인 뷰
-![Alt text](images/image-11.png)
-2. 홈 뷰 
- ![Alt text](images/image.png)
-3. 커뮤니티 뷰
-![Alt text](images/image-1.png)
 
-4. 환율 계산기 ![Alt text](images/image-2.png)
 
-5. 금융상품 추천 탭 ![Alt text](images/image-3.png)
-6. 금융상품 상세 페이지 뷰![Alt text](images/image-4.png)
-7. 프로필 뷰 - 나이별 추천 ![Alt text](images/image-5.png)
-8. 프로필 뷰 - 설문조사 별 추천![Alt text](images/image-6.png)
-9. 프로필 뷰 - 설문조사 타입변 알고리즘 설명 ![Alt text](images/image-7.png)
-10. 설문조사 뷰![Alt text](images/image-8.png)
-11. 은행 맵 뷰![Alt text](images/image-9.png)
-12. 은행 검색 시 화면![Alt text](images/image-10.png)
+1. 기본화면
+   - <img src="images/image-11.png" width="400">
+   - <img src="images/image.png" width="400">
+   - <img src="images/image-1.png" width="400">
+2. 환율 계산기 
+   - <img src="images/image-2.png" width="400">
+3. 금융상품 추천 탭 
+   - <img src="images/image-3.png" width="400">
+   - <img src="images/image-4.png" width="400">
+5. 프로필 뷰
+  - <img src="images/image-5.png" width="400">
+  - <img src="images/image-6.png" width="400">
+  - <img src="images/image-7.png" width="400">
+  - <img src="images/image-8.png" width="400">
+7. 은행 맵 뷰
+  - <img src="images/image-9.png" width="400">
+  - <img src="images/image-10.png" width="400">
+
 
 # 데이터베이스 모델링(ERD)
 ![Alt text](images/erd.png)
